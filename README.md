@@ -6,7 +6,7 @@ This script captures a specific region of the active window, extracts text from 
 
 ## Requirements
 - Python 3.x
-- Tesseract OCR (installed at `C:\Users\tpgop\AppData\Local\Programs\Tesseract-OCR`)
+- Tesseract OCR
 - Libraries: `pyttsx3`, `PIL`, `pytesseract`, `cv2`, `time`, `keyboard`, `pygetwindow`
 
 ## Usage
